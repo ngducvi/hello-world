@@ -1,2 +1,4 @@
 # hello-world
-cool
+hello !
+my name is vi im from viet nam 
+i tird
